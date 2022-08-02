@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](images/gojo.jpg)
+
 <!--
 **nihilist5k/nihilist5k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
